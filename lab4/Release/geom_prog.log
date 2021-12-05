@@ -1,0 +1,10 @@
+﻿  main_lab4.cpp
+C:\FucingTrash\Programming\Repozitories\Unn_start\lab4\main_lab4.cpp(25,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\FucingTrash\Programming\Repozitories\Unn_start\lab4\main_lab4.cpp(25,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\FucingTrash\Programming\Repozitories\Unn_start\lab4\main_lab4.cpp(56,6): warning C4101: i: неиспользованная локальная переменная
+  Создание кода
+  11 of 14 functions (78.6%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  geom_prog.vcxproj -> C:\FucingTrash\Programming\Repozitories\Unn_start\Release\lab4.exe

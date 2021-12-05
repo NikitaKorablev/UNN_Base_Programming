@@ -1,0 +1,5 @@
+﻿D:\VisualStudio\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main_lab4.cpp
+C:\FucingTrash\Programming\Repozitories\UNN_LOBACH\lab4\main_lab4.cpp(26,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\FucingTrash\Programming\Repozitories\UNN_LOBACH\lab4\main_lab4.cpp(26,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  geom_prog.vcxproj -> C:\FucingTrash\Programming\Repozitories\UNN_LOBACH\x64\Debug\lab_4.exe

@@ -1,0 +1,3 @@
+﻿D:\VisualStudio\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (3para.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  alg_evklida.vcxproj -> C:\FucingTrash\Programming\Repozitories\Unn_start\Debug\alg_evklida.exe

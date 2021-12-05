@@ -1,0 +1,4 @@
+﻿  pow.cpp
+C:\FucingTrash\Programming\Repozitories\UNN_LOBACH\test\pow.cpp(11,16): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\FucingTrash\Programming\Repozitories\UNN_LOBACH\test\pow.cpp(58,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  test.vcxproj -> C:\FucingTrash\Programming\Repozitories\UNN_LOBACH\x64\Debug\test.exe

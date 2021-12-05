@@ -1,0 +1,4 @@
+﻿  main_lab4.cpp
+C:\FucingTrash\Programming\Repozitories\Unn_start\lab4\main_lab4.cpp(26,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\FucingTrash\Programming\Repozitories\Unn_start\lab4\main_lab4.cpp(26,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  geom_prog.vcxproj -> C:\FucingTrash\Programming\Repozitories\Unn_start\Debug\lab4.exe
