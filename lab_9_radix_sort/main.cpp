@@ -22,7 +22,7 @@ int main() {
 	int len = 7;
 	int* a = (int*)malloc(len * sizeof(int));
 	random(a, len);
-
+	
 	out(a, len);
 
 	radix_sort(a, len);
